@@ -1,0 +1,5 @@
+name: EnderSMP
+version: ${project.version}
+main: com.github.jasgo.endersmp.EnderSMP
+api-version: 1.17
+authors: [ Jasgo ]
